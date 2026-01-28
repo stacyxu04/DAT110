@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Chapter 1</title>
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> Answer each of the following guiding questions as you read the text.
+    </p>
+  </introduction>
+
+  <page>
+    <exercise workspace="1.5in">
+      <statement>
+        <p>
+            In your own words, describe what a model is. Give two examples of models. 
+        </p>
+      </statement>
+    </exercise>
+
+        <exercise workspace="1.5in">
+      <statement>
+        <p>
+            In Chapter 1, Cathy O’Neil claims “models are opinions embedded in mathematics” (p. 21).  What does she mean by this?
+        </p>
+      </statement>
+    </exercise>
+        <exercise workspace="1.5in">
+      <statement>
+        <p>
+            Cathy O’Neil characterizes a “weapon of math destruction” (WMD) based on the three elements of opacity, scale, and damage. Explain what is meant by each of these terms, and indicate why each of these components can be destructive.
+        </p>
+      </statement>
+    </exercise>
+
+  </page>
+</worksheet>
