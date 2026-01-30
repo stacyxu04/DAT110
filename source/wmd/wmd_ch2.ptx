@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet>
+  <title>Chapter 2 Guiding Questions</title>
+  <introduction>
+    <p>
+      <alert>Instructions:</alert> Answer each of the following guiding questions as you read the text.
+    </p>
+  </introduction>
+
+  <page>
+    <exercise workspace="1.5in">
+      <statement>
+        <p>
+            What is a mortgage-backed security? Why does Cathy O’Neil consider the risk model for mortgage-backed securities used leading up to the 2008 financial crisis to be a WMD? 
+        </p>
+      </statement>
+    </exercise>
+
+        <exercise workspace="1.5in">
+      <statement>
+        <p>
+            In what ways were O’Neil’s work with hedge funds and with travel websites similar? What problems did she identify with both lines of work?        </p>
+      </statement>
+    </exercise>
+
+  </page>
+</worksheet>

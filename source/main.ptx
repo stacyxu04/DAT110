@@ -20,8 +20,8 @@
       <!-- Other documents could go here, like a schedule, project description, etc. -->
     </chapter>
 
-    <chapter xml:id="wmd">
-      <title>Weapons of Math Destruction</title>
+    <chapter xml:id="notes">
+      <title>Notes</title>
 
       <introduction>
         <p>
@@ -30,7 +30,8 @@
         </p>
       </introduction>
 
-      <xi:include href="./wmd/wmd_ch1.ptx"/>
+      <xi:include href="./notes/section1_1.ptx"/>
+      <xi:include href="./wmd/wmd_ch2.ptx"/>
       
       <!-- etc. -->
 
