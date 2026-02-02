@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<worksheet xml:id="notes-section-1_2">
+  <title>Section 1.2 Notes</title>
+    <p>
+      A <alert>recurrence relation</alert> is a rule that defines a sequence by giving one or more terms at the beginning of the sequence and then defining later terms in the sequence in terms of earlier terms of the sequence.
+    </p>
+  
+
+  
+    <p>
+      Examples:
+      <ul>
+        <li>
+          <p workspace="1in">
+            Geometric sequences:
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            Arithmetic sequences:
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            <m>a_{0}=1,a_{n}=a_{n-1}+n</m> for <m>n \geq 1</m>
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            <m>a_{0}=0,a_{n}=a_{n-1}+n</m> for <m>n \geq 1</m>
+          </p>
+        </li>
+
+        <li>
+          <p workspace="1in">
+            Fibonacci sequence: <m>f_{0}=0,f_{1}=1,f_{n}=f_{n-2}+f_{n-1}</m> for <m>n \geq 2</m>
+          </p>
+        </li>
+      </ul>
+    </p>
+  
+
+</worksheet>

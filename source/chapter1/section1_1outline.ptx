@@ -3,15 +3,10 @@
 <worksheet xml:id="notes-section-1_1">
   <title>Section 1.1 Notes</title>
 <page>
-<ul>
-  <li>
     <p>
       A <alert>sequence</alert> is a function whose domain is a consecutive set of integers.
       The elements of the domain are called <alert>indices</alert> while the corresponding elements of the target are called <alert>terms</alert>.
     </p>
-  </li>
-
-  <li>
     <p>
       Examples:
       <ol>
@@ -28,9 +23,7 @@
         </li>
       </ol>
     </p>
-  </li>
-
-  <li>
+  
     <p>
       Properties of Sequences:
       <ul>
@@ -60,11 +53,10 @@
       </ul>
     </p>
 
-    <p />
-    </li>
+  
 </page>
+
 <page>
-    <li>
       <p>
         Special Types of Sequences:
       </p>
@@ -84,7 +76,6 @@
           </li>
         </ul>
       </p>
-    </li>
-  </ul>
+
 </page>
 </worksheet>
